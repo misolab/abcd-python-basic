@@ -23,5 +23,10 @@ else:
 print("out if block")
 
 
+msg = input("전하실 말씀은??")
+print(msg + "~ 이 말씀을 남기고 떠나셨습니다.")
+
+
+
 
 
