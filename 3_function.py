@@ -13,13 +13,22 @@ show_a()
 print("a is " + str(a))
 
 
-def abcd(a, b, c, d):
+def multi_return():
+    return 'a', 'b', 'c'
+
+
+A, B, C = multi_return()
+print("%c %c %c" % (A, B, C))
+
+
+def abcd(a='가', b='나', c='다', d='라'):
     def merge():
         return a + b + c + d
 
     print("merge - " + str(merge()))
 
 
+abcd()
 abcd(1, 2, 3, 4)
 abcd('a', 'b', 'c', 'd')
 
