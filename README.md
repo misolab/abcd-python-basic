@@ -12,9 +12,7 @@ ABCD 한번에 훅가는 파이썬&장고 스터디 1일차 기초 문법 편입
 + [상속](https://github.com/misolab/abcd-python-basic/blob/master/5_extends.py)
 + [다중상속](https://github.com/misolab/abcd-python-basic/blob/master/6_multi_extends.py)
 + [모듈](https://github.com/misolab/abcd-python-basic/blob/master/7_module.py)
-
-
-파일편은 아직 준비 중입니다.  
++ [파일](https://github.com/misolab/abcd-python-basic/blob/master/8_file.py)
 
 
 많이들 참석해주세요~~
